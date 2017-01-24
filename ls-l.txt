@@ -1,0 +1,6 @@
+합계 16
+-rw-rw-r-- 1 cobb cobb  16  1월 24 15:15 README.md
+-rwxrwxr-x 1 cobb cobb 202 12월 30 14:26 bash_expression.sh
+-rwxrwxr-x 1 cobb cobb 105 12월 28 21:43 bash_local.sh
+-rwxrwxr-x 1 cobb cobb 143 12월 28 21:43 bashtest.sh
+-rw-rw-r-- 1 cobb cobb   0  1월 24 15:17 ls-l.txt
